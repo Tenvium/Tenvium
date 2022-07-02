@@ -12,13 +12,6 @@ To help developers’ evolvement at every stage
 4. Localized infrastructure for geographic strategic partners. 
 5. Upgraded development experience with Golang and Solidity.
 
-## Technical Features 
-
-1. Modular layered architecture (divided in three layers: Execution Layer, Settlement Layer and Data Availability Layer), built-in Rollup and extreme scaling, supporting hundreds of thousands of TPS. 
-2. Full compatibility with Ethereum protocols, EVM and Cosmos ecosystem, supporting a seamless migration of applications within the ecosystem. 
-3. Pipelined optimized BFT consensus, combining high throughput, decentralization, security and fast transaction confirmation. 
-4. Support DeFi cross-chain calls, multi-chain network structure with own-developed “Time Crossing” decentralized  cross-chain communication protocol.
-
 
 ## Tenvium Roadmap
 
