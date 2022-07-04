@@ -36,7 +36,7 @@ To help developers’ evolvement at every stage
 
 <tr style="background:rgba(0,0,0,0)"><td rowspan=4 > Two </td><td rowspan=4 > 
 TVM v2.0  </td> <td rowspan=4 >2023 Q1 </td> <td rowspan=4 > To be announced  </td> <td> Reach 5000 TPS </td></tr>
-<tr style="background:rgba(0,0,0,0)"><td> DPoS + random selection </td></tr>
+<tr style="background:rgba(0,0,0,0)"><td> NPoS + random selection </td></tr>
 <tr style="background:rgba(0,0,0,0)"><td> Streamline Consensus </td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Pipelined processing</td></tr>
 
