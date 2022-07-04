@@ -44,7 +44,7 @@ TVM v2.0  </td> <td rowspan=4 >2023 Q1 </td> <td rowspan=4 > To be announced  </
 Time-crossing cross chain protocol
 </td><td rowspan=3>2023 Q2</td><td rowspan=3>To be announced</td><td>Multi-chain structure</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross Channel: Cross-chain contract calls</td></tr>
-<tr style="background:rgba(0,0,0,0)"><td>IBC Compatibility</td></tr>
+<tr style="background:rgba(0,0,0,0)"><td>BFT Compatibility</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td rowspan=3> Four </td> <td rowspan=3>
 Settlement Layer & Execution Layer structure
 </td> <td rowspan=3>2023 Q3</td> <td rowspan=3>To be announced</td><td>built-in Collaborative rollup</td></tr>
