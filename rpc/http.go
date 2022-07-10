@@ -106,7 +106,7 @@ var DefaultHTTPTimeouts = HTTPTimeouts{
 // using the provided HTTP Client.
 func DialHTTPWithClient(endpoint string, client *http.Client) (*Client, error) {
 	// Sanity check URL so we don't end up with a client that will fail every request.
-	_, err := url.Parse(endpoint)
+	 err := url.Parse(endpoint)
 	if err != nil {
 		return nil, err
 	}
