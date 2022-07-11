@@ -5,8 +5,8 @@ Tenvium Network is a high-performance, modular Layer 1 blockchain that is compat
 
 ## Interact with us on Social Media
 
-- Twitter: https://twitter.com/tenvium
-- Telegram Channel: https://t.me/Tenvium_Network
+- Twitter: https://twitter.com/TenviumNetwork
+- Telegram Channel: https://t.me/TenviumNetwork
 - GitHub: https://github.com/Tenvium/
 - Website: https://tenvium.network/
   
